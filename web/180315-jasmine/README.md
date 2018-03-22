@@ -6,7 +6,7 @@
 
 ```sh
 npm init
-npm install -D jasmine-core karma karma-chrome-launcher karma-jasmine
+npm install -D jasmine-core@^2.0.0 karma karma-chrome-launcher karma-jasmine
 
 # ajax를 사용할 경우
 npm install -D karma-jasmine-ajax
